@@ -1,0 +1,22 @@
+{
+  "name": "wpstarter",
+  "version": "1.0.0",
+  "authors": [
+    "Yogesh Senagr"
+  ],
+  "description": "Starter WordPress Theme: Bower, Saas, Broserify, WordMove etc",
+  "keywords": [
+    "wordpress",
+    "theme"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.simplebrackets.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "sass-bootstrap-compass": null
+  }
+}
